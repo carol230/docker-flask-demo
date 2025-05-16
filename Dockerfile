@@ -13,6 +13,5 @@ RUN pip install flask
 # Comando para ejecutar la app
 CMD ["python","app.py"]
 
-# Exponer el puerto 5000
 
 
